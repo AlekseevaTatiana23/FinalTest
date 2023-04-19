@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\программирование\FinalTest\code\bin\Debug\net6.0\code.exe
+C:\Users\user\Desktop\программирование\FinalTest\code\bin\Debug\net6.0\code.deps.json
+C:\Users\user\Desktop\программирование\FinalTest\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\user\Desktop\программирование\FinalTest\code\bin\Debug\net6.0\code.dll
+C:\Users\user\Desktop\программирование\FinalTest\code\bin\Debug\net6.0\code.pdb
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.dll
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\refint\code.dll
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.pdb
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+C:\Users\user\Desktop\программирование\FinalTest\code\obj\Debug\net6.0\ref\code.dll
